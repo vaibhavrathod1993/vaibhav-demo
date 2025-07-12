@@ -1,4 +1,4 @@
 # vaibhav-demo
 This is my first git repository
 <br>
-Author- Vaibhav Rathod
+Author- Vaibhav (Maestro intellect)
